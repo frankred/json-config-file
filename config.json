@@ -1,0 +1,10 @@
+{
+  "TITLE": "Neuer Titel",
+  "WIDTH": 800,
+  "HEIGHT": 600,
+  "RATIO": 0.4,
+  "NAMES": [
+    "Peter",
+    "Paul"
+  ]
+}
